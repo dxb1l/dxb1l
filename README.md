@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**dxb1l/dxb1l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img alt="ya" src="https://i.imgur.com/ZDccPrX.gif" align="left"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dxb1l&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+</p>
 
-Here are some ideas to get you started:
+#### Languages
+- ![java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+    <a href=""><img src="https://img.shields.io/badge/-dxb1l_0001-000000?style=flat-square&logo=discord"/></a>
+    <a href="https://www.youtube.com/channel/UCHjNbmADYsFM5tMpBqoIuvw"><img src="https://img.shields.io/badge/-Miko242-000000?style=flat-square&logo=youtube"/></a>
+</p>
